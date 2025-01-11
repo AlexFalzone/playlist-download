@@ -58,7 +58,7 @@ PS. I don't know how much legal this is, but it works for now.
 
 - Clone the repository and enter the directory
   ```shell
-    git clone 
+    git clone https://github.com/AlexFalzone/playlist-download
   ```
   ```shell
     cd playlist-download
